@@ -1,4 +1,4 @@
-# AWS WAF POC
+# Setting up a Secure Environment with AWS WAF
 ![architecture.png](images%2Farchitecture.png)
 This project provides a hands-on proof of concept (POC) for setting up and testing the AWS Web Application Firewall (WAF). AWS WAF is a security service that protects your web applications from common web exploits. This POC demonstrates how to create a secure AWS environment with AWS WAF and test it with simulated attacks.
 
