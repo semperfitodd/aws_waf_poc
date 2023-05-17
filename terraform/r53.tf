@@ -1,5 +1,3 @@
-
-
 resource "aws_acm_certificate" "this" {
   domain_name       = local.site_domain
   validation_method = "DNS"
