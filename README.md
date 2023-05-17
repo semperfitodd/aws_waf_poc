@@ -9,12 +9,12 @@ Before you start, ensure you have the following:
 * [Terraform installed](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 ## Architecture Overview
-* VPC and VPC Endpoints
+* ACM certificate
+* Application load balancer
 * ECR Repository
 * ECS Fargate cluster and deployment
-* Application load balancer
 * Route53 record
-* ACM certificate
+* VPC and VPC Endpoints
 * WAF
 
 ## Configuration
